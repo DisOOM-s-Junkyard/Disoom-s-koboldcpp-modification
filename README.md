@@ -1,4 +1,8 @@
-# koboldcpp
+# My personal modification to koboldcpp
+Just do some edit and add some Function
+
+below are original README.md
+#koboldcpp
 
 KoboldCpp is an easy-to-use AI text-generation software for GGML and GGUF models. It's a single self contained distributable from Concedo, that builds off llama.cpp, and adds a versatile Kobold API endpoint, additional format support, Stable Diffusion image generation, backward compatibility, as well as a fancy UI with persistent stories, editing tools, save formats, memory, world info, author's note, characters, scenarios and everything Kobold and Kobold Lite have to offer.
 
